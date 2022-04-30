@@ -1,13 +1,12 @@
 # Firebase Authentication App
-
+Combining the power of Firebase and SwiftUI, this app demonstrates a simple authentication process.
 
 ## Architecture
 - SwiftUI and MVVM
+- Presentation Mode Dismiss Actions
 - Animations
-- Tab Bar System
-- ScrollViews, Lazy Stacks and Custom Items
-- Custom Model Presentation
-- Smooth Transitions
+- TextFields and SecureFields
+- Firebase **E-Mail/Password** Authentication Method
 
 ## Concept
 
