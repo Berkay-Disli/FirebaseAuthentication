@@ -16,3 +16,4 @@ Combining the power of Firebase and SwiftUI, this app demonstrates a simple auth
   <img src="images/auth2.jpg" width=30% height=30%>
   <img src="images/auth3.jpg" width=30% height=30%>
 </p>
+ 
